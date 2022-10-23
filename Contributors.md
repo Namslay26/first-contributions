@@ -276,6 +276,7 @@ Enrique Javier
 - [Pragathees](https://github.com/pragasekar)
 - [rabisha](https://github.com/rabi-1)
 - [William-David](https://github.com/William-David)
+- [Sneha Michelle V.](https://github.com/Namslay26)
 - [Shashwat-Dev] (https://github.com/devshashwat)
 - [amitc9405] (https://github.com/amitc9405)
 - [Ayush Rai](https://github.com/meaayushrai)
