@@ -84,6 +84,7 @@
 - [Khaled](https://github.com/KALs3)
 - [Deepali](https://github.com/deepseas07)
 - [Ailen Paez](https://github.com/paezailen)
+- [Bella Emz] (https://github.com/EmzB)
 - [Vatsal K](https://github.com/vatsalkudecha)
 - [Mika] (https://github.com/SK-2022)
 - [Prakhar Bhatia](https://github.com/prakharbhatia4)
@@ -175,6 +176,7 @@
 - [Hailey Steineke](https://github.com/hdsteineke)
 - [Abishek Reddy](https://github.com/Abishek-Reddy)
 - [Sahil Wankhade](https://github.com/ArcheR1901)
+- [Roberto](https://github.com/VespuccioTech)
 - [Shivam Jha](https://github.com/shivjha-27
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
 - [Ayasha](https://github.com/AyashaSikilkar)
@@ -4265,3 +4267,4 @@ first contributions - hanyang univ.
 - [Li-Cw](https://github.com/Li-CW)
 - [Jayesh Rajput](https://github.com/jayeahsh)
 - [Shamim Ahmmed](https://github.com/Md-Shamim-Ahmmed)
+- [Shreyansh Srivastava](https://github.com/Shreyansh1912)
